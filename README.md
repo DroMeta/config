@@ -105,3 +105,5 @@ Development version:
 |MiniDLNA (Media sharing)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||10.06.2019|
 
 \* no longer supported
+
+
